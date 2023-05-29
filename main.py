@@ -1,7 +1,7 @@
 from apscheduler.schedulers.blocking import BlockingScheduler
 import datetime
 
-import email.message,smtplib,msal,requests,random,os,time
+import email.message,smtplib,msal,requests,random,os
 from dotenv import load_dotenv
 load_dotenv()
 

@@ -1,4 +1,3 @@
-import json
 import msal
 import requests
 import random
